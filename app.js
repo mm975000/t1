@@ -14,12 +14,12 @@ app.set("veiws",__dirname+"/views");
   res.render("index",{"title":"Hello World!"});
   //res.end();
 });*/
-var port=process.env.PORT||80;
+/*var port=process.env.PORT||80;
 var ip=process.env.IP||"127.0.0.1";
 server.listen(port,ip,function(){
 	console.log("server is on!"+port+" "+ip);
 });
-
+*/
 //
 //
 //
